@@ -60,7 +60,7 @@ Volunteer Translator  on Drupal core for version 6 and 7:[localize.drupal.org/tr
 Blogs: [drupalbg.blogspot.com](http://drupalbg.blogspot.com) |  [drupalgeeks.blogspot.com/](http://drupalgeeks.blogspot.com/)  <br>
 
 Websites and screenshots:<br>
-- ```avtomorgibg.com``` | [Img-1](./img/avtomorgibg.com-1.png) | [Img-2](./img/avtomorgibg.com-2.png) | [Img-3](./img/avtomorgibg.com-3.png) | [Img-4](./img/avtomorgibg.com-4.png) | [Img-5](./img/avtomorgibg.com-5.png) | [Img-6](./img/avtomorgibg.com-6.png) | [Img-7](./img/avtomorgibg.com-7.png) | [Img-8](./img/avtomorgibg.com-8.png) 
+- ```avtomorgibg.com``` | [Img-1](./img/avtomorgibg.com-1.png) | [Img-2](./img/avtomorgibg.com-2.jpg) | [Img-3](./img/avtomorgibg.com-3.jpg) | [Img-4](./img/avtomorgibg.com-4.jpg) | [Img-5](./img/avtomorgibg.com-5.jpg) | [Img-6](./img/avtomorgibg.com-6.jpg) | [Img-7](./img/avtomorgibg.com-7.jpg) | [Img-8](./img/avtomorgibg.com-8.jpg) 
 - ```balovebg.com``` | [Img-1](./img/balovebg.com-1.png) 
 - ```capo-build.com``` | [Img-1](./img/capo-build.com-1.png) | [Img-2](./img/capo-build.com-2.png) | [Img-3](./img/capo-build.com-3.png) | [Img-4](./img/capo-build.com-4.png) | [Img-5](./img/capo-build.com-5.png) | [Img-6](./img/capo-build.com-6.png)
 - ```bfsk.eu``` | [Img-1](./img/bfsk.eu-1.png) | [Img-2](./img/bfsk.eu-2.png) | [Img-3](./img/bfsk.eu-3.png) | [Img-4](./img/bfsk.eu-4.png) | [Img-5](./img/bfsk.eu-5.png)
@@ -71,7 +71,7 @@ Websites and screenshots:<br>
 - ```radio.onlainbg.com``` | [Img-1](./img/radio.onlainbg.com-1.png) | [Img-2](./img/radio.onlainbg.com-2.png)
 - ```statii.onlainbg.com``` | [Img-1](./img/statii.onlainbg.com-1.png) | [Img-2](./img/statii.onlainbg.com-2.png) | [Img-3](./img/statii.onlainbg.com-3.png)
 - ```statusi.onlainbg.com``` | [Img-1](./img/statusi.onlainbg.com-1.png) | [Img-2](./img/statusi.onlainbg.com-2.png)
-- ```agrotreidmontana.com``` | [Img-1](./img/agrotreidmontana.com-1.png) | [Img-2](./img/agrotreidmontana.com-2.png) | [Img-3](./img/agrotreidmontana.com-3.png) | [Img-4](./img/agrotreidmontana.com-4.png)
+- ```agrotreidmontana.com``` | [Img-1](./img/agrotreidmontana.com-1.png) | [Img-2](./img/agrotreidmontana.com-2.png) | [Img-3](./img/agrotreidmontana.com-3.png) | [Img-4](./img/agrotreidmontana.com-4.jpg)
 - ```alimpex.com``` | [Img-1](./img/alimpex.com-1.png)
 <hr>
 
