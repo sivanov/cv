@@ -14,7 +14,7 @@
 - PostgreSQL, Redis, Mysql, Elasticsearch
 - Python, Python script and tools, Django, Flask
 - Crypto rabbit hole: BTC and Lightning Network,De-Fi, Web3, IPFS, Rust
-
+- Cypress and Selenium, DevOps, Kubernetes
 
 **Side projects and researches:**<br>
 - 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers
