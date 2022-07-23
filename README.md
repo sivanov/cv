@@ -19,6 +19,7 @@
 **Side projects and researches:**<br>
 - 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers
 - 2020 - 2021 - Crypto: BTC, ETH, Solidity, De-FI, DAO's, Smart contracts, Layer 2 solutions, historical and real time crypto exchange data aggregation for trade bots. Some projects with matplotlib, numpy, panda, pandas_datareader, backtesting benchmarks, custom technical indicators, Blockchain querying and similar
+- late 2019 - 2022 - Valuable crypto collection with tutorials and podcasts [crypto-portal.blogspot.com ](https://crypto-portal.blogspot.com/)
 
 #### Technical Experience 👩🏼‍💻
 
