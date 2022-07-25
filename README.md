@@ -13,7 +13,7 @@
 - JavaScript, TypeScript, NodeJS, Express, Svelte, less ReactJS, Website performance, PWA, WebRTC, WebAssembly, 
 - PostgreSQL, Redis, Mysql, Elasticsearch
 - Python, Python script and tools, Django, Flask
-- Crypto rabbit hole: BTC and Lightning Network,De-Fi, Web3, IPFS, Rust
+- Crypto rabbit hole: BTC and Lightning Network, Solidity, De-Fi, Web3, IPFS, Rust
 - Cypress and Selenium, DevOps, Kubernetes
 
 **Side projects and researches:**<br>
