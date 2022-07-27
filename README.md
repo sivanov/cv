@@ -9,6 +9,12 @@
 - share my knowledge with others and prefer to be a team player.
 - make complex researches and build MVP(Minimum Viable Product) and write well documented code, detailed technical documentations, draw diagrams and charts.
 
+**Some of my programming languages skills and tech stack:**
+- Python (4 years), Django and Flask (1 year), Selenium (2 years),
+- Docker (4 years), Virtual Box and Ubuntu server for website development from 2009 year 
+- Node.JS + express (2 years), JavaScript (6 years)
+- Perl, Bash and Regular Expressions (4 year), PHP (5 years), Laravel (2 years)
+
 **Feature interests and more focus time for improvements will be in:**
 - JavaScript, TypeScript, NodeJS, Express, Svelte, less ReactJS, Website performance, PWA, WebRTC, WebAssembly, 
 - PostgreSQL, Redis, Mysql, Elasticsearch
