@@ -30,7 +30,7 @@
 #### Technical Experience 👩🏼‍💻
 
 **Backend Developer at Lean Digital Solutions Ltd.** - [ls-s.com/en/products.html](https://ls-s.com/en/products.html) <br>
-Dec 2015 - Present | Sofia/Vratsa<br>
+Dec 2015 - Jully 2022 (6 yrs 8 months) | Sofia/Vratsa<br>
 
 Developing company products and external client projects. Used Technology in company: LAMP stack, VueJS, Laravel, CouchDB, Apache Cordova, Angular, Android, C lang, Objective-C etc.
 - 2021 - 2021 (2 months) - Research Build apps for Microsoft Teams
