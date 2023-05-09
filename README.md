@@ -10,17 +10,19 @@
 - make complex researches and build MVP(Minimum Viable Product) and write well documented code, detailed technical documentations, draw diagrams and charts.
 
 **Some of my programming languages skills and tech stack:**
-- Python (4 years), Django and Flask (1 year), Selenium (2 years),
-- Docker (4 years), Virtual Box and Ubuntu server for website development from 2009 year 
+- Python (5 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
+- Docker (5 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
 - Node.JS + express (2 years), JavaScript (6 years)
-- Perl, Bash and Regular Expressions (4 year), PHP (5 years), Laravel (2 years)
+- PHP (5 years), Laravel (2 years)
+- Perl, Bash and Regular Expressions (4 year)
+- Open AI, ChatGPT and AutoGPT from 2023
 
 **Feature interests and more focus time for improvements will be in:**
-- JavaScript, TypeScript, NodeJS, Express, Svelte, less ReactJS, Website performance, PWA, WebRTC, WebAssembly, 
-- PostgreSQL, Redis, Mysql, Elasticsearch
-- Python, Python script and tools, Django, Flask
+- JavaScript, TypeScript, NodeJS, Express, ReactJS, Next.JS, PWA, WebRTC, WebAssembly
+- PostgreSQL, Redis, Mysql, Elasticsearch, AWS CLoud
 - Crypto rabbit hole: BTC and Lightning Network, Solidity, De-Fi, Web3, IPFS, Rust
-- Cypress and Selenium, DevOps, Kubernetes
+- Python scripts and tools. Cypress and Selenium
+- Open AI, ChatGPT and AutoGPT
 
 **Side projects and researches:**<br>
 - 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers
@@ -34,7 +36,7 @@ Dec 2015 - Jully 2022 (6 yrs 8 months) | Sofia/Vratsa<br>
 
 Developing company products and external client projects. Used Technology in company: LAMP stack, VueJS, Laravel, CouchDB, Apache Cordova, Angular, Android, C lang, Objective-C etc.
 - 2021 - 2021 (2 months) - Research Build apps for Microsoft Teams
-- 2020 - 2022 (2 years) - QA test with Selenium and Python3, Pytest, some Cypress
+- 2020 - 2022 (2 years) - QA test with Selenium and Python3, Pytest, some Cypress mostly for [https://keyorg.app](https://keyorg.app/en/features/)
 - 2020 - 2020 (4 m) - MariaDB encryption in-rest and in-transit with Python3 script from scratch, list with keys for rotation and encrypt each DB column for external client in banking sector
 - 2020 - 2020 (6 m) - MVP with Laravel and pure PHP SAML authentication integration + Microsoft Active Directory, Microsoft Graph API
 - 2019 - 2019 (4 m) - MVP with Flask and Django with JWT alternatives for replacement of PHP Laravel/Yii 1 frameworks
@@ -50,7 +52,7 @@ Developing company products and external client projects. Used Technology in com
 April 2013  – November 2015 (2 yrs 8 months)<br>
 
 Develop and maintain software for Web crawling and Data Munging of daily publications, company profiles and financial reports published by Internet.<br>
-Implementing custom-developed heuristics to download content from various sources. Parsing and analyzing the retrieved data in order to extract the meaningful (from a client point of view) information from various file formats (HTML, XML, PDF, XLS(X), MS WORD) into pre-defined data structures. Good experience with different encodings and text manipulation.<br>
+Parsing and analyzing the retrieved data in order to extract the meaningful (from a client point of view) information from various file formats (HTML, XML, PDF, XLS(X), MS WORD) into pre-defined data structures. Good experience with different encodings and text manipulation.<br>
 Maintenance and Migration on old CGI websites to Amazon (AWC) and rewrite them on PHP and Zend Framework 1, embed in EMIS Professional 
  and Artirix Search Engine (JSON data) - [click for full website preview](https://static-emis.emis.com/docs/EMISPRO%20User%20Guide.pdf) <br>
 **Main Developer** on [emis.com](www.emis.com) blog build in Drupal 7. Screenshots: [Img-1](./img/emis.com-1.png) | [Img-2](./img/emis.com-2.png) | [Img-3](./img/emis.com-3.png) | [Img-4](./img/emis.com-4.png) | [Img-5](./img/emis.com-5.png) | [Img-6](./img/emis.com-6.png) | [Img-7](./img/emis.com-7.png) | [Img-8](./img/emis.com-8.png) | [Img-9](./img/emis.com-9.png) | [Img-10](./img/emis.com-10.png) | [Img-11](./img/emis.com-11.png) | [Img-12](./img/emis.com-12.png)<br>
