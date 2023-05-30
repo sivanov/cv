@@ -12,7 +12,7 @@
 **Some of my programming languages skills and tech stack:**
 - Python (5 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
 - Docker (5 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
-- Node.JS + express (2 years), JavaScript (6 years)
+- Node.JS + express (3 years), JavaScript (7 years)
 - PHP (5 years), Laravel (2 years)
 - Perl, Bash and Regular Expressions (4 year)
 - Open AI, ChatGPT and AutoGPT from 2023
@@ -25,8 +25,8 @@
 - Open AI, ChatGPT and AutoGPT
 
 **Side projects and researches:**<br>
-- 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers
-- 2020 - 2021 - Crypto: BTC, ETH, Solidity, De-FI, DAO's, Smart contracts, Layer 2 solutions, historical and real time crypto exchange data aggregation for trade bots. Some projects with matplotlib, numpy, panda, pandas_datareader, backtesting benchmarks, custom technical indicators, Blockchain querying and similar
+- 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers.
+- 2020 - 2022 - Crypto: BTC, ETH, Solidity, De-FI, DAO's, Smart contracts, Layer 2 solutions, historical and real time crypto exchange data aggregation for trade bots. Some projects with matplotlib, numpy, panda, pandas_datareader, backtesting benchmarks, custom technical indicators, Blockchain querying and similar. 
 - late 2019 - 2022 - Valuable crypto collection with tutorials and podcasts [crypto-portal.blogspot.com ](https://crypto-portal.blogspot.com/)
 
 #### Technical Experience 👩🏼‍💻
