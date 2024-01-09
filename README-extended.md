@@ -1,7 +1,7 @@
 
 ### Svetoslav Ivanov
 
-[Linkedin.com/in/sivanov8](https://www.linkedin.com/in/sivanov8/) | [github](https://github.com/sivanov) | [CV-Extended version](https://github.com/sivanov/README-extended.md) | [Personality Test: ENTJ-A](https://www.16personalities.com/profiles/4584d3b671a08)
+[Linkedin.com/in/sivanov8](https://www.linkedin.com/in/sivanov8/) | [github.com/sivanov](https://github.com/sivanov) | [Personality Test: ENTJ-A](https://www.16personalities.com/profiles/4584d3b671a08)
 
 
 **I like to:**
@@ -10,12 +10,16 @@
 - make complex researches and build MVP(Minimum Viable Product) and write well documented code, detailed technical documentations, draw diagrams and charts.
 
 **Some of my programming languages skills and tech stack:**
+- Next.Js, Microservices,  (1 year), 
+- Solidity ((1 year)), Rust (1 year), Go (0.5 years)
 - Python (5 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
 - Docker (5 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
 - Node.JS + express (3 years), JavaScript (7 years)
 - PHP (5 years), Laravel (2 years)
 - Perl, Bash and Regular Expressions (4 year)
-- Open AI, ChatGPT and AutoGPT from 2023, Solidity (1 year), Rust (1 year), Go (0.5 years)
+- Open AI, ChatGPT and AutoGPT from 2023
+- Android development (4 years) from 2016-2019
+- Objective-C and pure C lang (3 years) from 2016-2018
 
 **Feature interests and more focus time for improvements will be in:**
 - JavaScript, TypeScript, NodeJS, Express, ReactJS, Next.JS, PWA, WebRTC, WebAssembly
@@ -25,9 +29,25 @@
 - Open AI, ChatGPT and AutoGPT
 
 **Side projects and researches:**<br>
+- October 2023 - December 2023 - Distributed SQLite and [HTMX](https://htmx.org/), Deno, Bun, Hono framework
+- March 2022 - September 2023 - Svelte, SvelteKit, Next.js, ReactJS, Redux, Prisma, PostgreSQL, Mongo DB, TailwindCSS
+Microservices, AWS, NATS streams, Kafka, Docker, Kubernetes,  Scaffold, Terraform
+
+- March 2023 - Prompt Engineering, Open AI, ChatGPT, AutoGPT, Vector DB's, full text search
+
+- December 2023 - Starting Youtube.com channel for tutorials related with Back-end developers. 
+Stats till 7 Jan. 2024: 49 videos 1 800 views, 67 watch time(hours) [Screenshot](./img/extended/youtube.com-channel-views.png)
+
+- September 2022 - October 2022 (2 months) - https://podkrepi.bg/ 1-st month onboarding and investigate how web app works. For 2-nd month I was redirect to help to QA team like a Team Lead role.
+Tech Stack: TypeScript, Next.js, Nest.js, PostgreSQL, Prisma ORM, Jest, Playwright, Sentry, Github Actions and full list [https://podkrepi.bg/about-project](https://podkrepi.bg/about-project)
+[Img-1](./img/podkrepi.bg-2022-11-04_17-13-001.png) | [Img-2](./img/podkrepi.bg-2022-11-04_17-13-002.png) | [Img-3](./img/podkrepi.bg-2022-11-04_17-13-003.png) |[Img-4](./img/podkrepi.bg-2022-11-04_17-13-004.png) | [Img-5](./img/podkrepi.bg-2022-11-04_17-13-005.png)
+
+- March 2022 - September (7 months) Rust lang, some WebAssembly and Solidity smart contracts
 - 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers.
 - 2020 - 2022 - Crypto: BTC, ETH, Solidity, De-FI, DAO's, Smart contracts, Layer 2 solutions, historical and real time crypto exchange data aggregation for trade bots. Some projects with matplotlib, numpy, panda, pandas_datareader, backtesting benchmarks, custom technical indicators, Blockchain querying and similar. 
 - late 2019 - 2022 - Valuable crypto collection with tutorials and podcasts [crypto-portal.blogspot.com ](https://crypto-portal.blogspot.com/)
+- 2020 - Go lang ~6 months for small project, Rest API and CLI tools
+
 
 #### Technical Experience 👩🏼‍💻
 
@@ -46,6 +66,7 @@ Developing company products and external client projects. Used Technology in com
 - 2018 - 2018 (1 years) - Laravel and PHP developmentand + D3 charts, MySQL query optimizations instead of Laravel ORM
 - 2018 - 2018 (6 m) - Custom JS implementation for hybrid mobile Apps managing local notification and push notifications for Android and iOS
 - 2016 - 2019 (4 years) - [Actexs](https://ls-s.com/en/products/actexs.html) - Hibrid App with AngurarJS, Apache Cordova and Ionic 1. Custom development of full App back-up module for Android and iOS with compression libs, write with Objective-C and C lang. Fixing memory leaks for mobile apps and performance optimizations. Manually QA testings and storing results in large table with detailed screenshots.
+- Create custom Sublime Text Plugin for VanillaJS functions [Img-1](./img/extended/sublime-text-plugin-foc-js-documentation-2.png)
 <hr>
 
 **Product Developer at Internet Securities - www.emis.com**<br>
