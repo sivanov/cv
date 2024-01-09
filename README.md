@@ -1,7 +1,7 @@
 
 ### Svetoslav Ivanov
 
-[Linkedin.com/in/sivanov8](https://www.linkedin.com/in/sivanov8/) | [github](https://github.com/sivanov) | [CV-Extended version](https://github.com/sivanov/README-extended.md) | [Personality Test: ENTJ-A](https://www.16personalities.com/profiles/4584d3b671a08)
+[Linkedin.com/in/sivanov8](https://www.linkedin.com/in/sivanov8/) | [github](https://github.com/sivanov) | [CV-Extended version](https://github.com/sivanov/cv/blob/master/README-extended.md) | [Personality Test: ENTJ-A](https://www.16personalities.com/profiles/4584d3b671a08)
 
 
 **I like to:**
