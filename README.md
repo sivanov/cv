@@ -10,19 +10,19 @@
 - make complex researches and build MVP(Minimum Viable Product) and write well documented code, detailed technical documentations, draw diagrams and charts.
 
 **Some of my programming languages skills and tech stack:**
-- Python (5 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
-- Docker (5 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
-- Node.JS + express (3 years), JavaScript (7 years)
+- Python (6 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
+- Docker (6 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
+- Node.JS + express (4 years), JavaScript (8 years)
 - PHP (5 years), Laravel (2 years)
 - Perl, Bash and Regular Expressions (4 year)
-- Open AI, ChatGPT and AutoGPT from 2023, Solidity (1 year), Rust (1 year), Go (0.5 years)
+- Large language models LLMs (2 years) Open AI, ChatGPT and AutoGPT from 2023, Solidity (1 year), Rust (1 year), Go (0.5 years)
 
 **Feature interests and more focus time for improvements will be in:**
 - JavaScript, TypeScript, NodeJS, Express, ReactJS, Next.JS, PWA, WebRTC, WebAssembly
 - PostgreSQL, Redis, Mysql, Elasticsearch, AWS CLoud
 - Crypto rabbit hole: BTC and Lightning Network, Solidity, De-Fi, Web3, IPFS, Rust
 - Python scripts and tools. Cypress and Selenium
-- Open AI, ChatGPT and AutoGPT
+- Open AI, ChatGPT and AutoGPT, Pandas, Numpy, Plotly
 
 **Side projects and researches:**<br>
 - 2022 - [Crypto book](https://github.com/sivanov/crypto) in progress. Will be more technical oriented for backend developers.

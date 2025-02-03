@@ -12,12 +12,12 @@
 **Some of my programming languages skills and tech stack:**
 - Next.Js, Microservices,  (1 year), 
 - Solidity ((1 year)), Rust (1 year), Go (0.5 years)
-- Python (5 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
-- Docker (5 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
-- Node.JS + express (3 years), JavaScript (7 years)
+- Python (6 years) from 2018 year, Django and Flask (1 year), Selenium (2 years),
+- Docker (6 years) from 2018 year, Virtual Box and Ubuntu server for website development from 2009 year 
+- Node.JS + express (4 years), JavaScript (8 years)
 - PHP (5 years), Laravel (2 years)
 - Perl, Bash and Regular Expressions (4 year)
-- Open AI, ChatGPT and AutoGPT from 2023
+- Large language models LLMs (2 years) Open AI, ChatGPT and AutoGPT from 2023
 - Android development (4 years) from 2016-2019
 - Objective-C and pure C lang (3 years) from 2016-2018
 
@@ -26,7 +26,7 @@
 - PostgreSQL, Redis, Mysql, Elasticsearch, AWS CLoud
 - Crypto rabbit hole: BTC and Lightning Network, Solidity, De-Fi, Web3, IPFS, Rust
 - Python scripts and tools. Cypress and Selenium
-- Open AI, ChatGPT and AutoGPT
+- Open AI, ChatGPT and AutoGPT, Pandas, Numpy, Plotly
 
 **Side projects and researches:**<br>
 - October 2023 - December 2023 - Distributed SQLite and [HTMX](https://htmx.org/), Deno, Bun, Hono framework
